@@ -1,0 +1,44 @@
+
+body{
+    background-color: black;
+    background-image: url('images/3.gif');
+    background-attachment: fixed;
+}
+
+.keno{
+	text-align: center;
+}
+.audiop{
+    text-align: center;
+}
+.title{
+    text-align: center; 
+    color: white; 
+    font-size: 34px;
+}
+.img1{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#playlist{
+    list-style: none;
+}
+#playlist li a{
+    color:gray;
+    text-decoration: none;
+    font-size: 22px;
+    
+}
+#playlist .current-song a{
+    color:red;
+}
+.cl{
+    font-size: 22px;
+    text-align: end;
+    
+}
+.clin{
+    color: #1f1c1c;
+}
